@@ -1,16 +1,23 @@
-# React + Vite
+# Meu Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto consiste no desenvolvimento de um site pessoal utilizando React, com o objetivo de apresentar informações acadêmicas, profissionais e projetos desenvolvidos ao longo da disciplina.
 
-Currently, two official plugins are available:
+## Acesso ao site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://cin.ufpe.br/~lbl5
 
-## React Compiler
+## Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
 
-## Expanding the ESLint configuration
+## Estrutura do site
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O site é composto por três páginas principais:
+
+- Página inicial: apresentação pessoal, curso, interesses e contato
+- Sobre: trajetória acadêmica, habilidades e objetivos
+- Portfólio: projetos desenvolvidos nas disciplinas
