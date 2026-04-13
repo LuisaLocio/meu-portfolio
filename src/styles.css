@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #fff5f5; /* vermelho bem clarinho */
+}
+
+/* NAVBAR */
+nav {
+  background-color: #8b0000; /* vermelho escuro elegante */
+  padding: 15px;
+}
+
+nav a {
+  color: #ffecec; /* vermelho bem claro */
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ffffff;
+}
+
+a {
+  color: #8b0000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a52a2a;
+  text-decoration: underline;
+}
+
+/* CONTAINER */
+.container {
+  padding: 20px;
+}
+
+/* CARDS */
+.card {
+  background: #fffafa; /* branco com leve tom rosado */
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(139, 0, 0, 0.1); /* sombra vermelha suave */
+  border-left: 5px solid #b22222; /* detalhe vermelho */
+}
+
+/* TÍTULOS */
+h1, h2 {
+  color: #8b0000;
+}
+
+h3 {
+  color: #a52a2a;
+}
+
+body {
+  color: #000; /* força texto preto */
+}
+
+/* LISTA */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
